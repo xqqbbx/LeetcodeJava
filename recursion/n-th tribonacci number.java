@@ -15,10 +15,8 @@ class Solution {
         }
         if(n == 0) {
             result[n] = 0;
-            return result[n];
         } else if(n == 1 || n == 2) {
             result[n] = 1;
-            return result[n];
         } else if(result[n] < 0) {
             result[n] = store(n-3) + store(n-2) + store(n-1);
         }

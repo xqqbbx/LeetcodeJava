@@ -1,5 +1,4 @@
 # LeetcodeJava
-<<<<<<< HEAD
 |No.|Problem|Tag|Note|
 |---|-------|---|----|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Recursion](https://github.com/xqqbbx/LeetcodeJava/tree/master/recursion), BST| |
